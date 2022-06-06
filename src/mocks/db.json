@@ -1,42 +1,5 @@
 {
-  "projects": [
-    {
-      "name": "Projeto 01 Atualizado",
-      "budget": "5500",
-      "category": {
-        "id": "1",
-        "name": "Planejamento"
-      },
-      "cost": 123,
-      "services": [
-        {
-          "name": "Projeto 01",
-          "cost": "123",
-          "description": "fsdfsdf",
-          "id": "5751fe6e-d2e5-496f-b21a-831e3333f93b"
-        }
-      ],
-      "id": 1
-    },
-    {
-      "name": "Projeto 01",
-      "budget": "1500",
-      "category": {
-        "id": "1",
-        "name": "Planejamento"
-      },
-      "cost": 213,
-      "services": [
-        {
-          "name": "Projeto 01",
-          "cost": "213",
-          "description": "preciso para reunioes",
-          "id": "0565f66d-5d4f-4ff2-b8e6-282aafd152b2"
-        }
-      ],
-      "id": 2
-    }
-  ],
+  "projects": [],
   "categories": [
     {
       "id": 1,
