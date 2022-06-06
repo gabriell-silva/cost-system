@@ -1,0 +1,13 @@
+.Container {
+    padding: 2em;
+}
+
+.Container_Title {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 2em;
+}
+
+.Container_h1 {
+    margin-right: 890px;
+}
