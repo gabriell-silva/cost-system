@@ -1,0 +1,23 @@
+.Container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.Container h1 {
+    font-size: 2.5em;
+    margin-bottom: .5em;
+}
+
+.Container h1 span {
+    color: #659065;
+    background-color: #222;
+    padding: 0 0.2em;
+}
+
+.Container img {
+    width: 350px;
+    margin: 2em 0;
+}
