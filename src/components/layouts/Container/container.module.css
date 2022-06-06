@@ -1,0 +1,23 @@
+* {margin: 0; padding: 0; font-family: 'Montserrat', 'Poppins', 'Roboto', sans-serif;}
+
+.Container {
+    width: 100%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.start {
+    justify-content: flex-start;
+}
+
+.column {
+    flex-direction: column;
+    justify-content: flex-start;
+}
+
+.min_height {
+    height: 1200px;
+}
+
